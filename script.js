@@ -1,0 +1,1 @@
+function welcome(){alert("Welcome to Brew Haven Coffee!");}
